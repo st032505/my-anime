@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e">
+    <diagram id="CHHWaQMVpTkSrcd7rvDp" name="ページ-1">
+        <mxGraphModel dx="2363" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="アニメ検索アプリ" vertex="1">
+                    <mxGeometry height="30" width="150" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="探す" vertex="1">
+                    <mxGeometry height="60" width="120" x="190" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="検索" vertex="1">
+                    <mxGeometry height="60" width="120" x="190" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="検索ページを開く" vertex="1">
+                    <mxGeometry height="60" width="120" x="190" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="配信されてるサイト&lt;div&gt;に案内&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="500" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="配信&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;アプリ視聴&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="500" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="一覧から&lt;div&gt;アニメを選択&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="500" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="探しているジャンル&lt;div&gt;を選択して、検索&lt;/div&gt;&lt;div&gt;ボタンを押す&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="340" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="準備" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="データを作る" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="今期のアニメデータ&lt;div&gt;を登録する&lt;/div&gt;&lt;div&gt;「ジャンル」&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="今期のアニメデータ&lt;div&gt;を登録する&lt;/div&gt;&lt;div&gt;「年代」&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="今期のアニメデータ&lt;div&gt;を登録する&lt;/div&gt;&lt;div&gt;「人気度」&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="昔のアニメも登録" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="将来的に口コミ情報も追加" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-46" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=4;strokeColor=#666666;">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="10" y="285" as="sourcePoint"/>
+                        <mxPoint x="740" y="285" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-47" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="10" y="355" as="sourcePoint"/>
+                        <mxPoint x="730" y="355" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-48" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="40" width="120" x="-130" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="QdpSU1qRlQt7tRR_Qod2-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="アニメ&lt;div&gt;ファン&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="50" x="60" y="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
